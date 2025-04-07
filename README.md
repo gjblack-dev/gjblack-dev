@@ -26,4 +26,3 @@ Here are a few of the things I’ve built (or am actively building):
 Feel free to check out my projects, fork what interests you, or reach out if you're into audio tech, hardware design, or embedded engineering.
 
 - Email: gblack.dev@gmail.com  
-- LinkedIn: [linkedin.com/in/gabrielblack](#) *(placeholder – let me know when you have one!)*

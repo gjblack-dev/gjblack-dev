@@ -15,6 +15,8 @@ Here are a few of the things I’ve built (or am actively building):
 - **🌐 TCP Web Server** – C++ server using raw sockets to handle HTTP GET requests
 - **🎸 Buffer Guitar Pedal** – TL072-based analog pedal for signal integrity and tone preservation
 
+Below you can find the code for some of the projects!
+
 
 ## 🛠️ Tech Stack
 **Languages**: C++, VHDL, Python, MATLAB, C  

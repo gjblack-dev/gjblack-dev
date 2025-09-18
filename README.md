@@ -27,10 +27,34 @@ Below you can find the code for some of the projects!
 
 
 ## 🛠️ Tech Stack
-**Languages**: C++, VHDL, Python, MATLAB, C  
-**Tools**: Quartus Prime, ModelSim, Git, PortAudio, Multisim  
-**Hardware**: DE1-SoC FPGA, ESP32, Arduino, Logic Analyzers  
-**Concepts**: Digital logic design, pipelining, embedded systems, audio signal processing, UART, socket programming
+
+**Languages**  
+- C, C++, VHDL, Python, MATLAB  
+- Assembly (AVR), basic x86 concepts  
+- Verilog (familiarity for comparison with VHDL)
+
+**Tools & Frameworks**  
+- Quartus Prime, ModelSim, Vivado (simulation & FPGA toolchains)  
+- Git & GitHub (version control, collaboration)  
+- PortAudio & custom DSP pipelines  
+- Multisim & LTSpice (circuit simulation)  
+- MPLAB X IDE, Arduino IDE  
+
+**Hardware & Platforms**  
+- DE1-SoC FPGA (Altera/Intel)  
+- ESP32 (Wi-Fi/Bluetooth embedded development)  
+- Arduino (Uno, Mega, R4 WiFi)  
+- AVR64DU32 (AVR assembly microcontroller)  
+- Logic analyzers, oscilloscopes, and bench test equipment  
+
+**Core Concepts & Expertise**  
+- Digital logic design: ALUs, finite state machines, pipelining, memory design  
+- Custom CPU & microcontroller architecture (ISA design, instruction decoding)  
+- Embedded systems: sensor integration, real-time control, hardware/software co-design  
+- Audio signal processing: DSP effects, guitar pedals (analog + digital), buffer circuits  
+- Communication protocols: UART, SPI, I²C, TCP/IP socket programming  
+- Operating systems fundamentals: process control, threading, and concurrency  
+
 
 ## 📫 Let's Connect
 Feel free to check out my projects, fork what interests you, or reach out if you're into audio tech, hardware design, or embedded engineering.

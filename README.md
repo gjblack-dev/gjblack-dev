@@ -16,9 +16,9 @@ Here are a few of the things I’ve built (or am actively building):
 - **🎸 Buffer Guitar Pedal** – TL072-based analog pedal for signal integrity and tone preservation
 - **📂 Custom Shell Implementation** – A Unix-like shell in C++ with process control, I/O redirection, and background execution
 - **⚡ Multi-Threaded Collatz Generator** – Parallelized computation of Collatz stopping times with mutex-based synchronization and performance analysis
-- **🚗 Autonomous Car** – AVR assembly–programmed microcontroller car with reflectance sensors for line following and PWM motor control:contentReference[oaicite:0]{index=0}
-- **📡 Wireless IR Sensor Mail Checker** – ESP32-based TCP server with IR detection and battery monitoring, paired with a C# Windows Forms client app:contentReference[oaicite:1]{index=1}
-- **🕹️ App-Controlled Car** – Arduino Mega + C# Windows Forms app for remote-controlled vehicle with IR sensors and multi-motor control:contentReference[oaicite:2]{index=2}
+- **🚗 Autonomous Car** – AVR assembly–programmed microcontroller car with reflectance sensors for line following and PWM motor control
+- **📡 Wireless IR Sensor Mail Checker** – ESP32-based TCP server with IR detection and battery monitoring, paired with a C# Windows Forms client app
+- **🕹️ App-Controlled Car** – Arduino Mega + C# Windows Forms app for remote-controlled vehicle with IR sensors and multi-motor control
 
 Below you can find the code for some of the projects!
 

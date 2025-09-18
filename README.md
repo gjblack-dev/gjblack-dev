@@ -3,11 +3,12 @@
 🎓 I'm a senior Computer Engineering student at the University of West Florida, passionate about building systems from the ground up — whether it's custom CPUs on an FPGA, real-time audio processors in C++, or socket-based web servers.
 
 ## 💻 What I Do
-- 👾 Low-level systems programming (C++, VHDL, Python)
-- 🔌 Embedded systems (ESP32, Arduino, custom microcontroller design)
-- 🎛️ Digital and analog audio projects (PortAudio, buffer pedals, DSP)
-- 🧠 CPU design, instruction decoding, App Development, Assembly
-- 🌐 Network programming (multithreaded TCP servers in C++)
+- 👾 **Low-Level Systems Programming** – C++, VHDL, Python, with a focus on performance, concurrency, and resource management  
+- 🔌 **Embedded Systems & Hardware Integration** – ESP32, Arduino, and fully custom 16-bit microcontroller/CPU design in VHDL with UART loaders and instruction decoders  
+- 🎛️ **Audio Engineering & DSP** – Digital/analog guitar pedals (buffer, parametric EQ), real-time audio processing with PortAudio, and DSP experimentation  
+- 🧠 **Computer Architecture & Assembly** – Custom instruction sets, instruction decoding, pipeline-style execution, and assembly-level optimization (AVR, x86 concepts)  
+- 🌐 **Networking & Distributed Systems** – Multithreaded TCP servers/clients in C++, HTTP implementations, and networked embedded applications (ESP32 + C# frontends)  
+- 📱 **Application Development** – C# Windows Forms apps for embedded control, data visualization, and hardware-software integration projects  
 
 ## 🔧 Projects
 Here are a few of the things I’ve built (or am actively building):

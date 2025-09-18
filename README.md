@@ -29,7 +29,7 @@ Below you can find the code for some of the projects!
 ## 🛠️ Tech Stack
 
 **Languages**  
-- C, C++, VHDL, Python, MATLAB  
+- C, C++, C#, VHDL, Python, MATLAB  
 - Assembly (AVR), basic x86 concepts  
 - Verilog (familiarity for comparison with VHDL)
 
@@ -38,7 +38,9 @@ Below you can find the code for some of the projects!
 - Git & GitHub (version control, collaboration)  
 - PortAudio & custom DSP pipelines  
 - Multisim & LTSpice (circuit simulation)  
-- MPLAB X IDE, Arduino IDE  
+- MPLAB X IDE, Arduino IDE
+- Visual Studio, VS Code
+- Sublime Text
 
 **Hardware & Platforms**  
 - DE1-SoC FPGA (Altera/Intel)  
